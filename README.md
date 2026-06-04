@@ -15,7 +15,7 @@
 - Temperature, humidity, wind speed
 - OpenWeather API
 
-- Weather App Setup (Important)
+ Weather App Setup (Important)
   
  -> Step 1: Get Your Own API Key
 
